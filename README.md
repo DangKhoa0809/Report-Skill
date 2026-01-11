@@ -21,8 +21,8 @@ Below are selected technical reports demonstrating my ability to handle complex 
 
 | Report Title | Category | Key Skills Demonstrated | Tools Used |
 | :--- | :--- | :--- | :--- |
-| **[Signal Filtering with Wiener Filter in MIPS](./pdfs/MIPS_Wiener_Filter_Implementation.pdf)** | Computer Architecture | Low-level Programming, Error Analysis (MSE), Signal Processing | MARS Simulator, Python, LaTeX |
-| **[Symbolic & Algebraic Reasoning in Petri Nets](./pdfs/Petri_Net_Symbolic_Verification.pdf)** | Mathematical Modeling | Formal Verification, BDDs, Integer Linear Programming (ILP) | Python (CUDD), Docker, LaTeX |
+| **[Signal Filtering with Wiener Filter in MIPS](./pdfs/MIPS_Wiener_Filter_Implementation.pdf)** | Computer Architecture | Low-level Programming, Error Analysis (MSE), Signal Processing | LaTeX, Python |
+| **[Symbolic & Algebraic Reasoning in Petri Nets](./pdfs/Petri_Net_Symbolic_Verification.pdf)** | Mathematical Modeling | Formal Verification, BDDs, Integer Linear Programming (ILP) | LaTeX, Python |
 
 ---
 
@@ -35,8 +35,7 @@ Below are selected technical reports demonstrating my ability to handle complex 
 To produce high-quality documentation, I utilize a variety of tools depending on the nature of the report:
 
 * **Typesetting:** LaTeX (Overleaf), Markdown, Microsoft Word.
-* **Diagrams & Visualization:** Draw.io, Tableau, Matplotlib, Visio.
-* **Reference Management:** Zotero, Mendeley.
+* **Diagrams & Visualization:** Figma, Python, Matlab.
 
 ---
 
